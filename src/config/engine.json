@@ -1,0 +1,19 @@
+{
+  "engineName": "movies-en",
+  "endpointBase": "https://andromeda.ent.eu-west-1.aws.found.io",
+  "searchKey": "search-1tehihn6znxqvj43i9wbfc5c",
+  "resultFields": [
+    "cast",
+    "year",
+    "genres",
+    "title",
+    "id"
+  ],
+  "sortFields": [
+    "year"
+  ],
+  "facets": [
+    "genres"
+  ],
+  "titleField": "title"
+}
